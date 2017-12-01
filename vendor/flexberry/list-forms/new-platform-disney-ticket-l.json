@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-disney-ticket-e",
+  "editForm": "new-platform-disney-ticket-e",
+  "external": false,
+  "caption": "Ticket",
+  "name": "NewPlatformDisneyTicketL",
+  "className": "TicketL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-disney-ticket",
+      "modelProjection": "TicketL"
+    }
+  ]
+}

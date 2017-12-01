@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Person",
+  "name": "NewPlatformDisneyPersonE",
+  "className": "PersonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-disney-person",
+      "modelProjection": "PersonE"
+    }
+  ]
+}

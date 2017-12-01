@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-disney-person-e",
+  "editForm": "new-platform-disney-person-e",
+  "external": false,
+  "caption": "Person",
+  "name": "NewPlatformDisneyPersonL",
+  "className": "PersonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-disney-person",
+      "modelProjection": "PersonL"
+    }
+  ]
+}
