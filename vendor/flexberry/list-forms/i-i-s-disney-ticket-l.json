@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-disney-ticket-e",
+  "editForm": "i-i-s-disney-ticket-e",
+  "external": false,
+  "caption": "Ticket",
+  "name": "IISDisneyTicketL",
+  "className": "TicketL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-disney-ticket",
+      "modelProjection": "TicketL"
+    }
+  ]
+}
